@@ -22,7 +22,7 @@ Need are those items which are essential for us to servive. Wants are those item
 
 ## **4. Master your CRAFT:**
 
-There is always a dearth of professionals who have master their craft. One should always invest in their skills to earn respect and money.
+There is always a dearth of professionals who have master their craft. One should always invest in their skills to earn Respect and Money.
 **`Opportunity is a haughty goddess who waste no TIME with those who are UN-PREPARED.`**
 
 ## **5. Secure your future:**
