@@ -32,7 +32,7 @@ How to implement the above idea: Make a WEEKLY list of the tasks which are impor
 2. Ease the process
 3. Innovate
 
-### 6.`Fear has led to more procrastination than laziness ever will. You don’t procrastinate because you are lazy. You procrastinate because you are scared.`
+### 6.`Fear has led to more procrastination than laziness ever will. You don’t procrastinate because you are lazy. You procrastinate because you are SCARED.`
 
 Personally I'm scared when I have to run my final code on a BIG dataset which leads to unnecessary Procrastination. Also if procrastinate early failure will be delayed resulting in buggy code. 
 
