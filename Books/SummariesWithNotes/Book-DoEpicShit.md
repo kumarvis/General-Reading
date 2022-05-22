@@ -41,3 +41,7 @@ Personally I'm scared when I have to run my final code on a BIG dataset which le
 - SOLUTION02: In case of an ambiguous task or a work with no interest, think of the POMODORO technique just AIM for 1-2 POMODORO. 
 
 ### 7. `The best way to get help is to make it easier for people to help you. Be specific as much as you can. Ask Where and Why  you need help to figure out SPECIFIC Question.`
+
+## References: 
+
+1. [My Kindle Summary](../kindle-summaries/Do-Epic-Shit-Notebook.pdf)
