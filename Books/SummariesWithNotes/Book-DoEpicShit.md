@@ -26,14 +26,11 @@ Turn the table for a while and imagine how we felt when a commitment made by a s
 
 ### 5. `Doing the things that are the Most Important are the things that Make you important.`
 
-What makes me important in my new work environment?
+How to implement the above idea: Make a WEEKLY list of the tasks which are important for your workplace. Make sure you DISCUSS and Execute them successfully. Example what makes me important in my new work environment?
 
 1. Get hold of code
 2. Ease the process
 3. Innovate
-
-- How to implement the above idea: Make a WEEKLY list of the tasks which are important for your workplace. Make sure you DISCUSS and Execute them successfully.
-
 
 ### 6.`Fear has led to more procrastination than laziness ever will. You don’t procrastinate because you are lazy. You procrastinate because you are scared.`
 
