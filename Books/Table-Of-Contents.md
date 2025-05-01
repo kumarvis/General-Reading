@@ -7,3 +7,5 @@
 2. [The Richest Man in Babylon](SummariesWithNotes/Book-The_Richest_Man_Babylon.md)
 
 3. [Do Epic Shit](SummariesWithNotes/Book-DoEpicShit.md)
+
+4. [The Personal MBA](SummariesWithNotes/The-Personal-MBA.md)
