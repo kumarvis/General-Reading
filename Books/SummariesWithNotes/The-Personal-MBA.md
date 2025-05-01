@@ -7,6 +7,7 @@ Identify the critical few concepts, code modules or work flow process that accou
 
 ### 2. Understand the End-to-End Business Workflow
 Gain comprehensive understanding of the complete business workflow, and determine how each module fits into the bigger picture. De-cosntruct the system into smaller parts and make a flow chart. Find what value each component is creating. 
+
     - Try to measure the things remember, "What get MEASURED gets managed. 
     - How fast system is creatinng VALUE?
     - How fast we can serve the customers ?
