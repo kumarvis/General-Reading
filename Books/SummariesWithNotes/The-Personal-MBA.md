@@ -3,7 +3,7 @@
 ## Book Summary:
 
 ### 1. The Famous 80/20 Ruke
-Identify the critical few concepts, code modules or work flow process that accounts for 80% percent of overall work impact or performance. 
+Identify the critical few concepts, code modules or work flow process that accounts for 80% percent of overall work impact or performance and MASTER it.
 
 ### 2. Understand the End-to-End Business Workflow
 Gain comprehensive understanding of the complete business workflow, and determine how each module fits into the bigger picture. De-cosntruct the system into smaller parts and make a flow chart. Find what value each component is creating. 
